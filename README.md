@@ -18,3 +18,8 @@ Decision Tree Classifier
 - Trains AI model
 - Tests model accuracy
 - Predicts Pass/Fail for new students
+- 
+ HOW TO RUN
+pip install pandas scikit-learn
+
+python student_prediction.py
