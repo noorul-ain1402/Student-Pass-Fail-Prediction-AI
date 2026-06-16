@@ -10,16 +10,19 @@ This project uses Machine Learning to predict whether a student will Pass or Fai
 - Pandas
 - Scikit-learn
 
-ALGORITHM
+ALGORITHM 
+
 Decision Tree Classifier
 
  FEATURES
+ 
 - Loads student dataset
 - Trains AI model
 - Tests model accuracy
 - Predicts Pass/Fail for new students
 - 
  HOW TO RUN
+
 pip install pandas scikit-learn
 
 python student_prediction.py
