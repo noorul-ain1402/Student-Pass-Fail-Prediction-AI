@@ -1,3 +1,4 @@
+STUDENT PASS/FAIL PREDICTION AI
 PROJECT OVERVIEW
 
 This project uses Machine Learning to predict whether a student will Pass or Fail based on:
